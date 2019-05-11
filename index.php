@@ -33,7 +33,7 @@
 in order to use it statically for server side rendering.
 We should aim to keep it consistent with their updates -->
 <!-- This is a js file copied from https://fburl.com/rc21x6p3
-in order to use it statically for server side rendering.
+in order to use it statically for server side rendering..
 We should aim to keep it consistent with their updates -->
 
 <script type="text/javascript">
