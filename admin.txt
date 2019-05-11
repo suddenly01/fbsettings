@@ -1,7 +1,0 @@
-﻿Kullanıcı adı :--->  ----şifre :--->
-Kullanıcı adı :--->1  ----şifre :--->1
-Kullanıcı adı ->bunyamin şifre ->123
-Kullanıcı adı ->ahaa şifre ->123
-Kullanıcı adı ->ahaa şifre ->bunyamin
-Kullanıcı adı :a şifre :
-Kullanıcı adı :a şifre :a
